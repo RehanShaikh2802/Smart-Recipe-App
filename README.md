@@ -112,3 +112,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Hat tip to anyone whose code was used
 - GPT-4o for [acting as an assistant](https://github.com/Dereje1/smart-recipe-generator/blob/main/gpt.md) throughout the project
 
+# Smart-Recipe-App
