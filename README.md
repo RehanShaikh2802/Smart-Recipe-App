@@ -90,9 +90,6 @@ Check out the live application [here](https://smart-recipe-generator.vercel.app/
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
