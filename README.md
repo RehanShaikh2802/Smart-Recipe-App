@@ -86,10 +86,6 @@ The application is deployed on Vercel. Follow these steps to deploy:
 ## Live Demo
 Check out the live application [here](https://smart-recipe-generator.vercel.app/).
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
 
 ## Acknowledgements
 
